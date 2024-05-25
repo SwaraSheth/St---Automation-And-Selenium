@@ -1,0 +1,65 @@
+﻿[Workspace]
+SessionStartTime=0
+SessionEndTime=218
+VerNo=13
+IsSummaryData=1
+TimeFormat=0
+SesLang=ENN
+ABuild=0
+DataBaseName=resl111480458DB
+DBType=1
+CurrServer=LAPTOP-425OC920
+CurrUser=sa
+CurrPswd===
+StorageLoc=\\LAPTOP-425OC920\Data\
+PhStorageLoc=C:\MSSQL7\Data
+LocStorageLoc=
+LocPhStorageLoc=
+WinIntSec=0
+UseNetworkMode=0
+UseParallel=1
+UseManagedIndexes=1
+UseSpecMSSQLParams=1
+NumResults=1
+
+[Data Config]
+CollectionMode=1
+IngnoreFlds=Vuser ID
+IngnoreUIFlds=VuserID
+AggSecGran=1
+TransAgg=1
+DataPointAgg=1
+WebAgg=1
+MonAgg=0
+ErrAgg=0
+FilterEdge=0
+FSartTime=0
+FEndTime=84600
+
+[Result0]
+LRRID=
+ResultPath=C:\Users\hp\Documents\VuGen\Scripts\HPWeb_Tour\res\res.lrr
+ResultTDPath=
+NumFilters=0
+ScenarioTimeZone=-19800
+DaylightSavingSecsAddition=0
+ScenarioStartTime=1716274417
+ScenarioEndTime=1716274635
+ResInSD=1
+WebGran=5
+FilterEdge=0
+FSartTime=0
+FEndTime=0
+TDTestID=-1
+TDRunID=-1
+IsProTuneResult=0
+Scenario Type=Manual
+Schedule Name=Schedule 1
+Mode=Scenario Scheduling
+Load Behavior=Initialize 4 Vusers every 00:00:10 (HH:MM:SS)
+Scenario Duration=Start 8 Vusers: 4 every 00:00:10 (HH:MM:SS); Run for 00:02:00 (HH:MM:SS); Stop all Vusers: 4 every 00:00:10 (HH:MM:SS)
+NumGraphs=3
+
+[DimensionFunctions]
+DimeFuncCount=0
+
